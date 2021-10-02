@@ -1,6 +1,7 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This project is part of C++ Nanogdegree program. It involves creating a route planner that plots a path between two points on a map using real map data from the OpenStreeMap project. For map rendering, a github repo example https://github.com/cpp-io2d/P0267_RefImpl/tree/master/P0267_RefImpl/Samples/maps for 2D Graphics Library, IO2D was used as starter code.
+The implementation involved extending the code to search for and display a path between two points on the map.
 
 <img src="map.png" width="600" height="450" />
 
